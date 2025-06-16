@@ -24,9 +24,11 @@ a pokud je slabý akumulátor, přehraje se soubor číslo 1 ze složky 99.
 
 
 Ovladač: 
+
 ![](/doc/ovladac.jpg) 
 
 Zařízení:
+
 ![](/doc/montaz2.jpg) 
 
 Konfiguraci kontrolu stavu zařízení a samozřejmě též přehrávání jednotlivých MP3 lze dělat přes webový prohlížeč přes spuštěné WiFi AP.
