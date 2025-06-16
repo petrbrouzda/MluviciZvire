@@ -1,0 +1,1 @@
+﻿uvitaci zprava po startu
