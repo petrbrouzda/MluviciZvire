@@ -11,7 +11,7 @@ Na SD kartě jsou čtyři adresáře a v každém je víc souborů - po každém
 Zvuky jsou na SD kartě; lze je měnit, když jí vyndáte a připojíte k telefonu (= je třeba si na tábor vzít čtečku SD karet, co se dá připojit k telefonu.)
 
 Zvuky jsou ve složkách 01, 02 … 99, jednotlivé soubory se jmenují 001.mp3, 002.mp3 atd. Musí se jmenovat takto číselně, přehrávač to jinak neumí. 
-Soubory **musí být MP3;** novější M4U, které dělají novější telefony, přehrávač neumí. Pokud váš telefon dělá něco jiného než MP3, stáhněte si alternativní aplikaci [Hlasový záznamník](https://play.google.com/store/apps/details?id=com.media.bestrecorder.audiorecorder).
+Soubory **musí být MP3;** novější M4U, které dělají novější telefony, přehrávač neumí. Pokud váš telefon dělá něco jiného než MP3, stáhněte si alternativní aplikaci [Hlasový záznamník](https://play.google.com/store/apps/details?id=com.media.bestrecorder.audiorecorder), kde se dá formát na MP3 přepnout.
 
 Dálkovým ovladačem se přehrávají MP3 ze složek 01 (tlačítko A), 02 (B), 03 (C) a 04 (D).
 Předpokládá se, že ve složce je 5 MP3 souborů a přehraje to náhodně jeden z nich - aby se po každém stisku tlačítka pokud možno ozvalo něco jiného.
