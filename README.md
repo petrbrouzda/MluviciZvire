@@ -59,8 +59,7 @@ Pokud dáte pokyn k přehrání MP3, co na kartě není, po dalším "Obnov stav
 
 Doporučuji SD kartu naformátovat na FAT32.
 
-Na SD kartě musí být adresáře...
-A pak tam jsou potřeba nějaké další adresáře pojmenované 01-99 se soubory 001.mp3-999.mp3, které se budou přehrávat podle nastavení - mapování se nastaví přes webserver.
+Na SD kartě musí být adresáře pojmenované 01-99 se soubory 001.mp3-999.mp3, které se budou přehrávat podle nastavení - mapování se nastaví přes webserver.
 
 Pokud karta nefunguje, je třeba zkontrolovat, že je formátovaná v MBR rezimu (s GPT partition table to nefunguje) - zmíněno zde 
 https://forum.digikey.com/t/dfplayer-mini-communication-issue/18159/24 a popis, jak to rozlišit, je zde: https://www.tenforums.com/tutorials/84888-check-if-disk-mbr-gpt-windows.html
