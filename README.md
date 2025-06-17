@@ -32,15 +32,15 @@ Zařízení:
 ![](/doc/montaz2.jpg) 
 
 Konfiguraci kontrolu stavu zařízení a samozřejmě též přehrávání jednotlivých MP3 lze dělat přes webový prohlížeč přes spuštěné WiFi AP.
-* Wifi AP: Talk* to* me* please
+* Wifi AP: Talk\*to\*me\*please
 * heslo: NeukecasMe
 
 Webový server pak běží na http://192.168.1.1/ , ale WiFi by si mělo samo otevřít prohlížeč po připojení - jako captive portál ("Přihlašte se do sítě WiFi").
 Konfigurace wifi a IP adres je v souboru [EasyWebServer_config.h](/MluviciZvire/EasyWebServer_config.h).
 
 Aby spolehlivě fungovalo připojení na webserver, doporučuju:
-* na mobilce vypnout data,
-* na telefonech Xiaomi následně potvrdit, že má zůstat připojený na WiFi, i když v ní není připojení k internetu.
+* na mobilce vypnout mobilní data (jinak hrozí, že se na ně vrátí, když zjistí, že wifi síť nemá internet),
+* na telefonech Xiaomi následně potvrdit dialog, že má zůstat připojený na WiFi, i když v ní není připojení k internetu.
 
 Webová aplikace:
 
