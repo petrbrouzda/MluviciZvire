@@ -2,9 +2,9 @@
 
 Rekvizita na tábor: Mluvící zvíře. Nebo třeba divotvorný klobouk.
 
-Základní kouzlo je v ovládání pomocí dálkového ovladače. Malinký ovladač se čtyřmi tlačítky má někdo v kapse a nenápadně tím dává zařízení pokyn, co má přehrávat. Na rozdíl od ovládání podobných věcí přes mobil je to zcela nenápadné. 
+Základní kouzlo je v ovládání pomocí dálkového ovladače. Malinký ovladač se čtyřmi tlačítky má někdo v kapse a nenápadně tím dává zařízení pokyn, co má přehrávat. Na rozdíl od ovládání podobných věcí přes mobil to děti nevidí ani když stojí hned vedle. 
 
-Na SD kartě jsou čtyři adresáře a v každém je víc souborů - po každém stisku tlačítka zařízení náhodně vybere jeden z nich a přehraje ho. Takže když si třeba jeden adresář a jedno tlačítko vyhradíte na různé varianty "ano" (jasně, určitě, správně, ...) a druhé na "ne" (nikdy, ani náhodou, to ses podělal, ...), může třeba mluvící papoušek smysluplně odpovídat na dotazy typu ano/ne a navádět děti k nalezení pokladu - když položí správné otázky.
+Na SD kartě jsou čtyři adresáře a v každém je víc souborů - po každém stisku tlačítka zařízení náhodně vybere jeden z nich a přehraje ho. Takže když si například jeden adresář a jedno tlačítko vyhradíte na různé varianty "ano" (jasně, určitě, správně, ...) a druhé na "ne" (nikdy, ani náhodou, to ses podělal, ...), může mluvící papoušek smysluplně odpovídat na dotazy typu ano/ne a navádět děti k nalezení pokladu - když položí správné otázky.
 
 ## Detailnější popis funkce
 
