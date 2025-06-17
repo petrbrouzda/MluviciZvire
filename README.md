@@ -32,7 +32,7 @@ Zařízení:
 ![](/doc/montaz2.jpg) 
 
 Konfiguraci kontrolu stavu zařízení a samozřejmě též přehrávání jednotlivých MP3 lze dělat přes webový prohlížeč přes spuštěné WiFi AP.
-* Wifi AP: Talk*to*me*please
+* Wifi AP: Talk* to* me* please
 * heslo: NeukecasMe
 
 Webový server pak běží na http://192.168.1.1/ , ale WiFi by si mělo samo otevřít prohlížeč po připojení - jako captive portál ("Přihlašte se do sítě WiFi").
